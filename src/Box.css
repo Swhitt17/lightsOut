@@ -1,0 +1,23 @@
+.Box-light{
+    background-color: yellow;
+    display:inline-block;
+    width: 100px;
+    height: 100px;
+    padding-top: 0.75em;
+    margin-right: 0.5em;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.Box-dark{
+    background-color: darkslateblue;
+    display:inline-block;
+    width: 100px;
+    height: 100px;
+    padding-top: 0.75em;
+    margin-right: 0.5em;
+    flex-direction: row;
+    justify-content: center;
+}
+
+/* #f0e226  yellow*/
